@@ -1,7 +1,7 @@
 # Hedera Habibi 🤑 - ETH Denver 2024
 Twitter bot that alerts its users whenever it finds a account with substantial amount of Money in it!
 
-Twitter : (@HederaHabibi)[https://twitter.com/HederaHabibi]
+Twitter : [@HederaHabibi](https://twitter.com/HederaHabibi)
 
 ## How to use :
 1. Clone the repository: 
