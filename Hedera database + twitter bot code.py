@@ -22,7 +22,7 @@ def update_sheet(data):
     remove_row()
 
 while True:
-    data = ["sending wallet", "receiving wallet", "transaction volume", "time"]
+    data = ["wallet address", "balance"]
     update_sheet(data)
     time.sleep(600)
 
