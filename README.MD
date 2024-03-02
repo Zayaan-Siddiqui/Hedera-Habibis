@@ -12,7 +12,8 @@ Twitter : [@HederaHabibi](https://twitter.com/HederaHabibi)
 ```bash
  pip install -r requirements.txt
  ```
-3. Run the bot:
+3. Plug in your API keys in .env file
+4. Run the bot:
 ```bash
  python -u Hedera.py
  ```
