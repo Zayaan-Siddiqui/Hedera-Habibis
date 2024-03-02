@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cosmic-tensor-416004",
+  "private_key_id": "7a4b1035ec6811fdcce3981c30551f59e9bae9b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDc3WYW9d9JfWGA\nGhCYyRvX1pGaL/mwaEiLvcpefty8wEl3Z9JLdGsPpuO9jejxJchtcqyKOuh6tGRf\nUgY4NSedi0vKpLPRdIFsqAWW+t+KuyCO/g3K+B18xy/il8MvaqkZcmwH6Nkuu9j7\nY7h77QvlGVp+CrokRUKFO4L4yan3JfnA0qgZWsOGNisujBkb8j0lgWuqx9GGaAlw\na0E0sTkSevPbPEPp0t96lF1+4cl5w7Eb9J8h2ZbROsbH/SGb5/P+NmispR5gpadT\npqMjPtCT5qKhs5lA1swgec307qAHKohuxCtvDaahoJUkZWGqv+Vlk7dnZAhHCt31\nfWjFfmE7AgMBAAECggEAFqABeMGoJXWYGtDQuW4Ekagz0ykt+VG9eL8w71wsjZNf\nE0HJ65vZ6ckNVFooridSMFAKd8CQFx3KmG8lHvXnAH8H/RLBLugx5+kQZYZ+hs4j\niDJjRFMFZkZbU+l6/6z79JThly/Vq7FniV0ORXeje80MlZPQvK1xoodVo9m4tQ34\nkFRULzw8zBSOkkxJpFyunx92zmfBCZiDE6z6MThrXIbb/bixkM0c2mg2gl1C4gYP\nBzM3KwdvFBKJVhFOs4O2esFhdXw6JxUPycUe3JMGs+4dS2ISC1QDqgqXZBBgCHWR\nDIkvtArOPmwxOAvnSJJfQTFxDv/LonxWyZK38xwUaQKBgQD52TcjCIBqNomjYJOI\nsE6GTYgzfAgbjIlKwEqkhfNdEnmH3HuC8W/xhDS/o4cD7hr1I/eUfJEmqQDOdhPc\nr0GigBdElXTQTA53KKyaIH5Wm7CZn4nFQktvycdt6tIIDVHR0kwPlbWzTI6ApXpW\nnqmLESS+3LW2Kab5ZUbOvCcfEwKBgQDiTYAo0mBc6/Hn9dMLXy1Qiue9E/pSdPpO\nzRsRoFLM4ffUuM/EU3ovKuXiDZ8YUcu80Rp8D3BbvLVjWlU65wdJ3hFAsd1TAbnf\nz5PWCiw/Dp7j1Gj1ZuQEptc7gMTKblr9zMrsMbbjes4HI/ME7Y5+pe7zpN08uyTP\n14UnK4ZyOQKBgEVAPLUcJSPLbAj5usrXO1ykXs0OYtzn7iHm/Ilvi03P0hmjNiTM\nMN/7afd4JvMi6xvpVTU19bGGhG+1cLnpZcLZyBk9Z7xYaGYEwxqRSRNOYfuiqbgg\nMPKSNhG0VXTf5D7JEEX9k/hXjuP/edJKdenS3aF9YWxVTS+xL5gbtKg7AoGAQci7\np6I4JurjoEViexzIxHAMm3cyPkQI+10+MCqFx08sxuaOZwjJLOrwdnz1MZGdgx7Z\n7xRh2hkKNX5t5jiAcuWd6EuMBfQrfzcNR5wfbpkmcR4vAJ9PS1bgnEh7bEkWJE8i\n8fQlsQzi1UqK+3S/BmvgAW18booMUmrZJyDM7WkCgYEAqIZbjOHSJXal3oxFI6kK\nke+y957/h3K+MS6PnHbw5kfPr5e3ypPrxNBA8fnR/JLpxZaRkWuOEOixWWsgj4c2\nnTjkCLKtQ1d4OxxyWUm11J5yiDTP20LaMj+hWgey0rM+usEGvpWq260Lfle3RE+b\nuGKMaHeKPkNUnS9x3i38mBo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hedera-service-account@cosmic-tensor-416004.iam.gserviceaccount.com",
+  "client_id": "110289919511263620703",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hedera-service-account%40cosmic-tensor-416004.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
