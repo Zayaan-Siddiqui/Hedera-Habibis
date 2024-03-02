@@ -5,17 +5,17 @@ Twitter : (@HederaHabibi)[https://twitter.com/HederaHabibi]
 
 ## How to use :
 1. Clone the repository: 
-'''bash
+```bash
  git clone https://github.com/Pravesh-mansharamani/Hedera-Habibis.git
- '''
+ ```
 2. Install the requirements:
-'''bash
+```bash
  pip install -r requirements.txt
- '''
+ ```
 3. Run the bot:
-'''bash
+```bash
  python -u Hedera.py
- '''
+ ```
 
 
 
