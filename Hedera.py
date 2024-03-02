@@ -1,11 +1,12 @@
 import requests
 import time
+from TwitterBot import tweet_data
+
 
 exchange_rate = 0.1175
 
 BASE_URL = 'https://mainnet-public.mirrornode.hedera.com'
 current_api_endpoint = '/api/v1/accounts'
-filtered_accounts = []
 
 def parse_hedera_accounts():
     global current_api_endpoint
@@ -30,7 +31,8 @@ def parse_hedera_accounts():
             
             if usd_balance > 10000:
                 evm_add = account['evm_address']
-                filtered_accounts.append({'evm_address': evm_add, 'usd_balance': usd_balance})
+                tweet_data({'evm_address': evm_add, 'usd_balance': usd_balance})
+
                 
         if 'next' not in data['links']:
             break
@@ -39,4 +41,3 @@ def parse_hedera_accounts():
         time.sleep(4)
 
 parse_hedera_accounts()
-print(filtered_accounts)
