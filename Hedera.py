@@ -38,6 +38,6 @@ def parse_hedera_accounts():
             break
         
         current_api_endpoint = data['links']['next']
-        time.sleep(4)
+        time.sleep(1800)
 
 parse_hedera_accounts()

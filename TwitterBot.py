@@ -24,6 +24,16 @@ def tweet_data(data):
         "💰💋 Oh my, what do we have here? An AVeryDollarDynamo account on Hedera. It's a treasure trove of cash and kisses! 💋💸 Address: {evm_address}, Balance: ${usd_balance} #MoneyAndMore #Hedera #HederaHabbies",
         "💸💎 Bling bling, baby! Spotted an AVeryMoneyManiac account on Hedera. Making it rain like there's no tomorrow! 💸💎 Address: {evm_address}, Balance: ${usd_balance} #BlingBling #Hedera #HederaHabbies",
         "🍾 Pop the champagne! Just discovered an AVeryFortunate account on Hedera. Living the high life with pockets full of cash! 💰🥂 Address: {evm_address}, Balance: ${usd_balance} #FortuneFinds #Hedera #HederaHabbies"
+        "💰💼 Cha-ching! Stumbled upon an AVeryWealthy account on Hedera. This wallet is a goldmine! 💼💰 Address: {evm_address}, Balance: ${usd_balance} #WealthyWonder #Hedera #HederaHabbies",
+        "💎💵 Shine bright like a diamond! Just found an AVeryRiches account on Hedera. Fortune favors the bold! 💵💎 Address: {evm_address}, Balance: ${usd_balance} #RichesRising #Hedera #HederaHabbies",
+        "💸💎 Money talks! Spotted an AVeryCashCraze account on Hedera. Cash flow never looked so good! 💎💸 Address: {evm_address}, Balance: ${usd_balance} #CashCraze #Hedera #HederaHabbies",
+        "🌟💰 Stars aligning! Came across an AVeryWealthWizard account on Hedera. Magic in the air and money in the wallet! 💰🌟 Address: {evm_address}, Balance: ${usd_balance} #WealthWizardry #Hedera #HederaHabbies",
+        "💵💼 Making it rain! Discovered an AVeryMoneyMaster account on Hedera. Mastering the art of wealth accumulation! 💼💵 Address: {evm_address}, Balance: ${usd_balance} #MoneyMaster #Hedera #HederaHabbies",
+        "💰🌈 Rainbow of riches! Just found an AVeryWealthWave account on Hedera. Riding the wave to financial success! 🌈💰 Address: {evm_address}, Balance: ${usd_balance} #WealthWave #Hedera #HederaHabbies",
+        "💸✨ Sparkle and shine! Spotted an AVeryCashChampion account on Hedera. Championing the cause of wealth accumulation! 💰✨ Address: {evm_address}, Balance: ${usd_balance} #CashChampion #Hedera #HederaHabbies",
+        "💼💰 Making moves! Came across an AVeryMoneyMogul account on Hedera. Moguling the world with wealth! 💰💼 Address: {evm_address}, Balance: ${usd_balance} #MoneyMogul #Hedera #HederaHabbies",
+        "💎💰 Diamonds are forever! Discovered an AVeryRichRuler account on Hedera. Ruling the realm of riches! 💰💎 Address: {evm_address}, Balance: ${usd_balance} #RichRuler #Hedera #HederaHabbies",
+        "🌟💸 Shining bright! Found an AVeryCashKingpin account on Hedera. Kingpin of cash and kingpin of success! 💸🌟 Address: {evm_address}, Balance: ${usd_balance} #CashKingpin #Hedera #HederaHabbies"
     ]
 
     template = random.choice(templates)
@@ -32,5 +42,5 @@ def tweet_data(data):
     print("Tweeted:", tweet_text)
 
 
-    time.sleep(120)
+    time.sleep(60 * 60 * 5) # Tweet every 5 hours
 
