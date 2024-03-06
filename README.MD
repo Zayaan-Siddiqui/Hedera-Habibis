@@ -1,6 +1,6 @@
-# Hedera Habibi
+# Hedera Habibis
 
-Hedera Habibi is a Twitter bot that alerts its users whenever it finds a Hedera account with a substantial amount of money in it. The bot uses the Hedera API to parse account data and tweets about accounts with a balance greater than $10,000.
+Hedera Habibis is a Twitter bot that alerts its users whenever it finds a Hedera account with a substantial amount of money in it. The bot uses the Hedera API to parse account data and tweets about accounts with a balance greater than $10,000.
 
 ## Features
 - **Account Monitoring**: The bot continuously monitors Hedera accounts and their balances.
